@@ -96,6 +96,8 @@
     <div class="footer">
         <div class="container">
             <h4>Alamat</h4>
+            <h4><a href="http://unsrat.ac.id/">UNSRAT</a></h4>
+            <br>
             <p><?php echo $a->admin_address ?></p>
 
             <h4>Email</h4>
